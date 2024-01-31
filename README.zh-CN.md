@@ -6,7 +6,7 @@
 
 **🍿 在线预览**: https://chatgpt-ultra.top/
 
-![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/8a7ef009-c4be-4106-a87b-99de658faf24)
+[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/5d9354b1-fdfb-4282-af0e-c6f167b4b5f3) ](https://chatgpt-ultra.top)
 
 ## 本地运行
 
@@ -143,7 +143,7 @@ Environment: OPENAI_API_KEY=YOUR_OPEN_API_KEY
 
 6.等待 1-2 分钟后点击链接，即可进去页面
 
-[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/4dd2514c-911b-44a7-8d79-3f06a86cce59) ](https://chatgpt-ultra.top)
+[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/5c402b32-2ab0-4cd3-87af-0b6280f00894) ](https://chatgpt-ultra.top)
 
 ### 部署在更多的服务器
 
