@@ -8,7 +8,8 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API.](https://platform.openai.com/doc
 
 > ⚠️ Notice: Our API Key limit has been exhausted. So the demo site is not available now.
 
-![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/e9139663-a0f5-4c5d-bc93-82001d40f345)
+[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/5d9354b1-fdfb-4282-af0e-c6f167b4b5f3) ](https://chatgpt-ultra.top)
+
 
 
 ## Introducing `Anse`
