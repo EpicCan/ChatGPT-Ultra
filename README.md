@@ -158,7 +158,8 @@ Environment: OPENAI_API_KEY=YOUR_OPEN_API_KEY
 
 6.Wait for one to two minutes and open this link
 
-[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/4dd2514c-911b-44a7-8d79-3f06a86cce59) ](https://chatgpt-ultra.top)
+[ ![image](https://github.com/EpicCan/ChatGPT-Ultra/assets/45425072/5c402b32-2ab0-4cd3-87af-0b6280f00894) ](https://chatgpt-ultra.top)
+
 
 ### Deploy on more servers
 
